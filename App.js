@@ -4,7 +4,7 @@ import RootNavigation from './src/navigation'
 import { ToastProvider } from 'react-native-toast-notifications'
 import './src/config/firebase'
 // import { getUserByEmail } from './src/utils/makeDeveloperRole';
-
+//s
 
 // getUserByEmail('teuddycr@gmail.com')
 
